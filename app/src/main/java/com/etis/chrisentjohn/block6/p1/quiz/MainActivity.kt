@@ -11,3 +11,4 @@ class MainActivity : AppCompatActivity() {
 }
 
 //this is a comment
+//i dont know how to code
